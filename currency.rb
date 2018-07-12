@@ -2,9 +2,7 @@
 
 
 def usd_to_eur(coin)
-  return 
-  
-  
+  return coin * 0.86
 end  
 
 
