@@ -6,6 +6,6 @@ def usd_to_eur(coin)
 end  
 
 def eur_to_usd(coin)
-  return coin*1.20
+  return coin*1.17
 end   
 
