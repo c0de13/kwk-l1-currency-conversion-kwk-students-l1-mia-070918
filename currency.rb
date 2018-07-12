@@ -1,4 +1,10 @@
 # Write your cod here
 
 
-def usd_to_euro
+def usd_to_eur
+  
+  
+end  
+
+
+
